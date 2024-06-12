@@ -92,24 +92,3 @@ result_image.show(title="Image with Removed Background")
 5. 运行完所有代码单元后，你将看到原始图像和去除背景后的图像。
 
 这个示例使用了`rembg`库，它是一个开源的Python库，专门用于移除图像背景，使用深度神经网络来准确识别和移除图像背景。
-
-Citations:
-[1] https://pypi.org/project/backgroundremover/
-[2] https://www.geeksforgeeks.org/how-to-remove-the-background-from-an-image-using-python/
-[3] https://learnwithhasan.com/remove-image-background-with-python/
-[4] https://www.youtube.com/watch?v=LVlnNdVUyOQ
-[5] https://www.tomshardware.com/how-to/python-remove-image-backgrounds
-[6] https://www.python-engineer.com/posts/remove_background/
-[7] https://stackoverflow.com/questions/63001988/how-to-remove-background-of-images-in-python
-[8] https://www.horilla.com/blogs/how-to-remove-the-background-of-image-using-rembg-in-python/
-[9] https://www.youtube.com/shorts/ArkWjVpvNVM
-[10] https://gist.github.com/onidzelskyi/3845c8d635a66351083b6d68ea0dcfdd
-[11] https://www.youtube.com/watch?v=d_RLmyTv1HA
-[12] https://github.com/danielgatis/rembg
-[13] https://stackoverflow.com/questions/70556110/how-to-remove-the-background-from-an-image
-[14] https://pypi.org/project/carvekit-colab/
-[15] https://github.com/shreyas-bk/u2netdemo
-[16] https://www.youtube.com/watch?v=6uz_OGgvnt8
-[17] https://www.youtube.com/watch?v=RkdFkhfMK2k
-[18] https://colab.research.google.com/drive/1PaZJpk_xlYsJgsbNqNIwzfmolpa8r1tZ?usp=sharing
-[19] https://colab.research.google.com/github/eugenesiow/practical-ml/blob/master/notebooks/Remove_Image_Background_DeepLabV3.ipynb
